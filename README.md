@@ -9,7 +9,7 @@ As a Senior CyberSecurity Analyst, I bring over 8+ years of experience in protec
 * 🌍  I'm based in Dallas–Fort Worth metroplex
 * 🖥️  See my portfolio at [My Portfolio](http://(s)://sandeepkasturi.carrd.co/)
 * ✉️  You can contact me at [cybermonk3y@protonmail.com](mailto:cybermonk3y@protonmail.com)
-* 🚀  I'm currently working on [Github Profile to share any scripts I create that will be helpful in SOC](http://tobeadded)
+* 🚀  I'm currently working on [Github repos to share any scripts I create that will be helpful to community](http://tobeadded)
 * 🧠  I'm learning Cloud Security and AI
 * 🤝  I'm open to collaborating on Cloud Projects and any learning opportunities.
 
