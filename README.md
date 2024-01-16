@@ -9,4 +9,4 @@ All views shared here and on any profesionnal platforms are my own.
 
 - 🔍 I'm currently working as a Threat Detection & Response analyst
 - 📚 I'm currently learning AI and preapring for cloud certifications
-- 🔗 Connect with me on (Linkedin)[https://www.linkedin.com/in/sandeepkasturi/] / (YouTube)[https://www.youtube.com/@Sandeep_Kasturi]
+- 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/sandeepkasturi/) / [YouTube](https://www.youtube.com/@Sandeep_Kasturi)
