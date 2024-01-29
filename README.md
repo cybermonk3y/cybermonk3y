@@ -3,10 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 As a Senior CyberSecurity Analyst, I bring over 8+ years of experience in protecting organizations from cyber threats and ensuring their compliance with regulatory standards are met. I have a proven track record of supporting various clients in the identification, mitigation, and remediation of cyber threats. My areas of expertise include Threat Hunting, Breach Attack Simulation tools, Security Operations, Incident Response, and Cloud Security. I have a proven track record of successfully leading security risk assessments and audits, as well as managing security incidents and response procedures, updating standard operating procedure handbooks. In addition to my technical skills, I possess strong communication and collaboration skills that allow me to work effectively with stakeholders across all levels. I am a strong believer in staying current with emerging CyberSecurity threats and trends, and I actively participate in industry events and training programs to ensure that my knowledge and skills remain relevant and up to date.
 
-* 🌍  I'm based in Dallas–Fort Worth metroplex
 * 🖥️  See my portfolio ➡️ [Card](https://sandeepkasturi.carrd.co/)
-* ✉️  You can contact me ✉️ [cybermonk3y@protonmail.com](mailto:cybermonk3y@protonmail.com)
-* 🚀  I'm currently working on **Github repos to share any scripts I create that will be helpful to community**]
 * 🧠  I'm learning Cloud Security and AI
 * 🤝  I'm open to collaborating on Cloud Projects and any learning opportunities.
 
