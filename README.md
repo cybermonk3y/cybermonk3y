@@ -9,11 +9,11 @@ As a Senior CyberSecurity Analyst, I bring over 8+ years of experience in protec
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Specializations
+##### Specializations
 <div id="badges">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Threat%20Hunting-blue>
   <img alt="Static Badge" src="https://img.shields.io/badge/Incident%20Response-purple">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SOC%20Analyst-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Digital%20Forensics-purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence-purple">
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
