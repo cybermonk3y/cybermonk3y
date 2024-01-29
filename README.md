@@ -8,19 +8,26 @@ with community here.
 * 🤝  I'm open to collaborating on Cloud Projects and any learning opportunities.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### My Specializations
+### Specializations
 <div id="specializations">
   <img alt="Static Badge" src="https://img.shields.io/badge/SOC%20Analyst-Green?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Threat%20Hunting-purple?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Incident%20Response-red?style=for-the-badge">
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### My verified badges
-<div id="badges">
-[https://img.shields.io/badge/%F0%9F%94%96%20Badges-yellow?style=for-the-badge](https://www.credly.com/users/venkatachala-n-sandeep-kasturi.1b70b3ba/badges)
-
+### Verified badges
+<img alt="Static Badge" src="https://img.shields.io/badge/Badges-yellow?style=for-the-badge&logo=credly">  [..](https://www.credly.com/users/venkatachala-n-sandeep-kasturi.1b70b3ba/badges)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Continuing Education
+<div id="CE">
+  <img alt="Static Badge" src="https://img.shields.io/badge/THM-white?style=for-the-badge&logo=tryhackme&logoColor=black">
+	<img alt="Static Badge" src="https://img.shields.io/badge/HTB-white?style=for-the-badge&logo=hackthebox&logoColor=green">
+	<img alt="Static Badge" src="https://img.shields.io/badge/PWNEDlabs-purple?style=for-the-badge&link=https%3A%2F%2Fwww.antisyphontraining.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fcropped-at-logo.png">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Antisyphon-blue?style=for-the-badge&link=https%3A%2F%2Fwww.antisyphontraining.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fcropped-at-logo.png">
+	
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Socials
 <div id="socials">
 
