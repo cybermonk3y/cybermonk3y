@@ -16,7 +16,7 @@ with community here.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Verified badges
-<img alt="Static Badge" src="https://img.shields.io/badge/Badges-yellow?style=for-the-badge&logo=credly">  [.Link Here.](https://www.credly.com/users/venkatachala-n-sandeep-kasturi.1b70b3ba/badges)
+<img alt="Static Badge" src="https://img.shields.io/badge/Badges-yellow?style=for-the-badge&logo=credly">  [➡️Link Here](https://www.credly.com/users/venkatachala-n-sandeep-kasturi.1b70b3ba/badges)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Continuing Education
